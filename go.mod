@@ -35,7 +35,7 @@ require (
 	github.com/zclconf/go-cty v1.13.2
 	golang.org/x/term v0.8.0
 	golang.org/x/text v0.9.0
-	google.golang.org/grpc v1.55.0
+	google.golang.org/grpc v1.56.3
 )
 
 require (
