@@ -64,7 +64,6 @@ require (
 	github.com/Masterminds/semver/v3 v3.2.1 // indirect
 	github.com/Masterminds/sprig v2.22.0+incompatible // indirect
 	github.com/Microsoft/go-winio v0.6.1 // indirect
-	github.com/Microsoft/hcsshim v0.9.3 // indirect
 	github.com/ProtonMail/go-crypto v0.0.0-20230518184743-7afd39499903 // indirect
 	github.com/VividCortex/ewma v1.2.0 // indirect
 	github.com/acomagu/bufpipe v1.0.4 // indirect
@@ -89,7 +88,6 @@ require (
 	github.com/circonus-labs/circonusllhist v0.1.3 // indirect
 	github.com/cloudflare/circl v1.3.3 // indirect
 	github.com/container-storage-interface/spec v1.4.0 // indirect
-	github.com/containerd/cgroups v1.0.3 // indirect
 	github.com/containerd/containerd v1.6.6 // indirect
 	github.com/containerd/go-cni v1.1.7 // indirect
 	github.com/containernetworking/cni v1.1.2 // indirect
@@ -103,7 +101,7 @@ require (
 	github.com/dimchansky/utfbom v1.1.0 // indirect
 	github.com/docker/cli v20.10.18+incompatible // indirect
 	github.com/docker/distribution v2.8.2+incompatible // indirect
-	github.com/docker/docker v20.10.24+incompatible // indirect
+	github.com/docker/docker v24.0.7+incompatible // indirect
 	github.com/docker/docker-credential-helpers v0.6.4 // indirect
 	github.com/docker/go-connections v0.4.0 // indirect
 	github.com/docker/go-metrics v0.0.1 // indirect
@@ -206,8 +204,10 @@ require (
 	github.com/mitchellh/mapstructure v1.5.0 // indirect
 	github.com/mitchellh/pointerstructure v1.2.1 // indirect
 	github.com/mitchellh/reflectwalk v1.0.2 // indirect
+	github.com/moby/patternmatcher v0.6.0 // indirect
 	github.com/moby/sys/mount v0.3.3 // indirect
 	github.com/moby/sys/mountinfo v0.6.2 // indirect
+	github.com/moby/sys/sequential v0.5.0 // indirect
 	github.com/moby/term v0.0.0-20210619224110-3f7ff695adc6 // indirect
 	github.com/mrunalp/fileutils v0.5.0 // indirect
 	github.com/nicolai86/scaleway-sdk v1.10.2-0.20180628010248-798f60e20bb2 // indirect
